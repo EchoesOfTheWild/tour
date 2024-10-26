@@ -1,0 +1,15 @@
+html{
+    background-color: lightgreen;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 330px;
+    margin-top: 20px;
+    border: 11px solid black;
+}
+a{
+text-align: center;
+color: grey;
+margin-left: 400px;
+}
